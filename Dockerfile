@@ -1,4 +1,4 @@
-FROM node:slim
+FROM node:26.12.1-slim
 
 COPY . .
 
